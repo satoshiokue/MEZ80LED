@@ -3,6 +3,7 @@
 
 R1-R3 = 10k x3  
 C1 = 0.1uF  
+LED  
 
 ![MEZ80LED PCB TOP](https://github.com/satoshiokue/MEZ80LED/blob/main/MEZ80LED_top.jpg)
 ![MEZ80LED PCB BOTTOM](https://github.com/satoshiokue/MEZ80LED/blob/main/MEZ80LED_bottom.jpg)
